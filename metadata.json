@@ -1,0 +1,22 @@
+{
+  "author": "jasper9",
+  "checksums": {
+    "manifests\\init.pp": "d4680c1e285f1a2e918889cdafc25c25",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "spec\\spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests\\init.pp": "5086992bfbe4109aef08a6dc91736250",
+    "templates\\motd.erb": "f588ed4aadfd01f50013877ebd903de8",
+    "spec\\spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "Modulefile": "7bd30fc611db532185da746c3dfdc2ba",
+    "README.markdown": "e0d2b6a86bba3b5b29890d3125f9008f"
+  },
+  "dependencies": [],
+  "description": "This is the description.\n\nThis is just a demo module based on the original Puppetlabs/MOTD.",
+  "license": "",
+  "name": "jasper9-motd",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "types": [],
+  "version": "0.1.5"
+}
