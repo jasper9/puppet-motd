@@ -1,8 +1,9 @@
 {
   "author": "jasper9",
   "checksums": {
-    "Modulefile": "b158beac2cf42eeb5c26c9b3da3f9a19",
-    "templates\\motd.erb": "bad30f40e1728079d25042d967fc0315"
+    "Modulefile": "01edeef0d6cb94300c1b17c01d9d025d",
+    "README.markdown": "77cf62328b6d8fa8e8f0f4d6850a3b3c",
+    "README.md": "cf9002be6a96d535677fc703de5912cd"
   },
   "dependencies": [],
   "description": "This is just a demo module based on the original Puppetlabs/MOTD.",
@@ -12,5 +13,5 @@
   "source": "https://github.com/jasper9/puppet-motd",
   "summary": "",
   "types": [],
-  "version": "0.1.7"
+  "version": "0.1.8"
 }
