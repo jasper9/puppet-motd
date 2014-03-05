@@ -1,5 +1,5 @@
 name    'jasper9-motd'
-version '0.1.8'
+version '0.1.9'
 source 'https://github.com/jasper9/puppet-motd'
 author 'jasper9'
 license ''
